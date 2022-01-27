@@ -1,4 +1,4 @@
 ReactDOM.render(
-    <h1>Hello, everyone!</h1>, 
+    <h1>Hi my name is Abhinav Manocha</h1>, 
     document.querySelector("#root")
-);2
+);
